@@ -1,2 +1,2 @@
 # edu
- A colllection of teaching materials
+ Eine Sammlung von Lehrmaterialien
