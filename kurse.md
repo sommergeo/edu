@@ -1,7 +1,7 @@
 # Kurse
  Ein Sammlung von Kursen zur Vertiefung von technischen Fähigkeiten für das Geographiestudium.
  
- ## An der Uni Tübingen
+## An der Uni Tübingen
  - Die [EDV-Kurse des ZDV Tübingen](https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/dienstleistungen/sonstiges/schulungen/anmeldung/) werden regelmäßig in ein- oder mehrtägigen Veranstaltungen abgehalten, die als ECTS angerechnet werden können. Idealerweise informieren Sie sich frühzeitig über Angebot und Termine, denn die Kurse sind meist schnell ausgebucht. Für Geographiestudierende sind die folgende Kurse empfohlen:
 	- Einführung in Python
 	- Einführung in HTML5
@@ -14,7 +14,7 @@
 	- GIS
 	- Datenbanken
  
- ## Online Kurse
+## Online Kurse
 
  - ESRI bietet einige [MOOCs](https://www.esri.com/training/mooc/) an, von denen ich zumindest den halbjährlich wiederkehrenden [Cartography MOOC](https://www.esri.com/training/catalog/596e584bb826875993ba4ebf/cartography./) selbst mitgemacht habe. In 2-3 Wochenstunden über sechs Wochen lernt man die Kartengestaltung mit ArcGIS Pro auf einsteigerfreundlichen Niveau. Das Kursmaterial umfasst Videos, Lehrskripte, Hausaufgaben und schließlich erhält man ein Teilnahmezertifikat. Das Kursangebot dreht sich natürlich um ESRI Produkte und ist grundsätzlich kostenlos. Für die sonst kostenpflichtige Software wird eine zeitlich begrenzte Testlizenz vergeben, aber Sie können auch beim Systemadministrator [Herr Bick](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/geoinformatik-gis/arbeitsgruppe/team/christian-bick/) eine Studierdendenlizenz anfragen.
 	- Do-It-Yourself Geo Apps
