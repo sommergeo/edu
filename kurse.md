@@ -41,8 +41,8 @@
 ### GIS und Geostatistik
  - QGIS betreibt ein englischsprachiges [Training Manual](https://docs.qgis.org/3.16/en/docs/training_manual/index.html)
  - [qgistutorials.com](http://www.qgistutorials.com/) bietet Kurse mit verschiedenen Schweregraden (Einführung, Mittel, Fortgeschritten) sowie Netzwerkanalyse, Hydrologische Modellierung, Python Scrpting (PyQGIS) und WebMapping
- - :tv:[QGIS Tutorial Serie](https://www.youtube.com/watch?v=RTjAp6dZ-DU&list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_&index=39) von Klas Karlson auf Youtube
- - :tv:[Introduction to Spatial Data Science](https://www.youtube.com/watch?v=JwHxJsesG2Y&list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht) ist eine Vorlesungsreihe zu den Grundlagen der Geostatistik von Luke Anselin (Uni Chicago 2020) auf Youtube
+ - :tv: [QGIS Tutorial Serie](https://www.youtube.com/watch?v=RTjAp6dZ-DU&list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_&index=39) von Klas Karlson auf Youtube
+ - :tv: [Introduction to Spatial Data Science](https://www.youtube.com/watch?v=JwHxJsesG2Y&list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht) ist eine Vorlesungsreihe zu den Grundlagen der Geostatistik von Luke Anselin (Uni Chicago 2020) auf Youtube
  
 ### R
  - [Spatial Data Science with R](https://r-spatial.org/book/) ist ein ausführliches Buch von Edzer Pebesma und Roger Bivand mit reichlich Beispielcode
@@ -57,7 +57,7 @@
  - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/index.html) Skript zum Kurs des Department of Geosciences and Geography an der Uni Helsinki
  - [Spatial Data Programming with Python](https://geobgu.xyz/py/index.html) Skript zum Kurs der Ben-Gurion University of the Negev
  
- ### Web Development
+### Web Development
  - [W3Schools](https://www.w3schools.com/) bietet Tutorials zu einem breiten Spektrum von Themen, wie
 	- Webdesign (HTML, CSS, JavaScript, etc.)
 	- Programmiersprachen (Python, R, C++, etc.)
