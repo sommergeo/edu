@@ -1,4 +1,3 @@
-# Edu
- Übersichtsseite über eine Sammlung von Lehrmaterialien
+# Inhalt
  
  - [Kurse](kurse.md): Eine Liste mit empfehlenswerten Kursen
