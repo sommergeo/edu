@@ -41,19 +41,19 @@
 ### GIS und Geostatistik
  - QGIS betreibt ein englischsprachiges [Training Manual](https://docs.qgis.org/3.16/en/docs/training_manual/index.html)
  - [qgistutorials.com](http://www.qgistutorials.com/) bietet Kurse mit verschiedenen Schweregraden (Einführung, Mittel, Fortgeschritten) sowie Netzwerkanalyse, Hydrologische Modellierung, Python Scrpting (PyQGIS) und WebMapping
- - [QGIS Tutorial Serie](https://www.youtube.com/watch?v=RTjAp6dZ-DU&list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_&index=39) von Klas Karlson auf Youtube
- - [Introduction to Sptial Data Science](https://www.youtube.com/watch?v=JwHxJsesG2Y&list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht) ist eine Vorlesungsreihe zu den Grundlagen der Geostatistik von Luke Anselin (Uni Chicago 2020) auf Youtube
+ - :tv:[QGIS Tutorial Serie](https://www.youtube.com/watch?v=RTjAp6dZ-DU&list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_&index=39) von Klas Karlson auf Youtube
+ - :tv:[Introduction to Spatial Data Science](https://www.youtube.com/watch?v=JwHxJsesG2Y&list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht) ist eine Vorlesungsreihe zu den Grundlagen der Geostatistik von Luke Anselin (Uni Chicago 2020) auf Youtube
  
 ### R
  - [Spatial Data Science with R](https://r-spatial.org/book/) ist ein ausführliches Buch von Edzer Pebesma und Roger Bivand mit reichlich Beispielcode
  - [Geocomputation with R](https://geocompr.robinlovelace.net/) ist ein Lehrbuch (inklusive Code) von Robin Lovelace
  - [An Introduction to Spatial Analysis and Mapping in R 2nd edition](https://bookdown.org/lexcomber/brunsdoncomber2e/) ist ein Lehrbuch von Chris Brunsdon und Lex Comber
  - [Introduction to Statistical Learning in R](https://fcorowe.github.io/sl/) ist ein Skript zur Einleitung in die Software R, Deskriptive Statistik, Signifikanztests, Correlation und Regression, sowie Überwachte Klassifikation
-  - [Introduction to the Statistical Programming Language R](https://www.geo.fu-berlin.de/en/v/soga/Introduction-to-R/index.html) bereitgestellt von der FU Berlin
+ - [Introduction to the Statistical Programming Language R](https://www.geo.fu-berlin.de/en/v/soga/Introduction-to-R/index.html) bereitgestellt von der FU Berlin
  - [Statistik für Digital Humanities](http://www.informatik.uni-leipzig.de/~jtiepmar/lehre/statdh20/) Vorlesung der Uni Leipzig mit aufgezeichneten Youtube Videos und Vorlesungsfolien
  - [Kursmaterial](https://wilkelab.org/classes/) des Wilke Lab, Uni Texas, Austin mit 28 Foliensätzen und Übungen aber ohne Videos
  
-### Python
+### Python ::
  - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/index.html) Skript zum Kurs des Department of Geosciences and Geography an der Uni Helsinki
  - [Spatial Data Programming with Python](https://geobgu.xyz/py/index.html) Skript zum Kurs der Ben-Gurion University of the Negev
  
