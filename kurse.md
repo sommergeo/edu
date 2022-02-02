@@ -53,7 +53,7 @@
  - [Statistik für Digital Humanities](http://www.informatik.uni-leipzig.de/~jtiepmar/lehre/statdh20/) Vorlesung der Uni Leipzig mit aufgezeichneten Youtube Videos und Vorlesungsfolien
  - [Kursmaterial](https://wilkelab.org/classes/) des Wilke Lab, Uni Texas, Austin mit 28 Foliensätzen und Übungen aber ohne Videos
  
-### Python ::
+### Python
  - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/index.html) Skript zum Kurs des Department of Geosciences and Geography an der Uni Helsinki
  - [Spatial Data Programming with Python](https://geobgu.xyz/py/index.html) Skript zum Kurs der Ben-Gurion University of the Negev
  
