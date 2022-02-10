@@ -41,8 +41,8 @@
 ### GIS und Geostatistik
  - QGIS betreibt ein englischsprachiges [Training Manual](https://docs.qgis.org/3.16/en/docs/training_manual/index.html)
  - [qgistutorials.com](http://www.qgistutorials.com/) bietet Kurse mit verschiedenen Schweregraden (Einführung, Mittel, Fortgeschritten) sowie Netzwerkanalyse, Hydrologische Modellierung, Python Scrpting (PyQGIS) und WebMapping
- - :tv: [QGIS Tutorial Serie](https://www.youtube.com/watch?v=RTjAp6dZ-DU&list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_&index=39) von Klas Karlson auf Youtube
- - :tv: [Introduction to Spatial Data Science](https://www.youtube.com/watch?v=JwHxJsesG2Y&list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht) ist eine Vorlesungsreihe zu den Grundlagen der Geostatistik von Luke Anselin (Uni Chicago 2020) auf Youtube
+ - [QGIS Tutorial Serie](https://www.youtube.com/watch?v=RTjAp6dZ-DU&list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_&index=39) von Klas Karlson auf Youtube
+ - [Introduction to Spatial Data Science](https://www.youtube.com/watch?v=JwHxJsesG2Y&list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht) ist eine Vorlesungsreihe zu den Grundlagen der Geostatistik von Luke Anselin (Uni Chicago 2020) auf Youtube
  
 ### R
  - [Spatial Data Science with R](https://r-spatial.org/book/) ist ein ausführliches Buch von Edzer Pebesma und Roger Bivand mit reichlich Beispielcode
